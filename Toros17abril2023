@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="MUNDOTORO TV HD 720P" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD 720P
+http://2022spn.net:8080/Nicky/1234/5209
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV SD" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD
+http://2022spn.net:8080/Nicky/1234/5210
