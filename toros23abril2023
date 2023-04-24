@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaco Tv (p)" -title="Espana",MundoVaco Tv (p)
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOBECERRO TV FHD"
+http://mlefishing.es:2086/joaquin/123456/213
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOBECERR@"  
+http://mlefishing.es:2086/joaquin/123456/126367
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOVACO TV FHD"
+http://46.21.250.55:8080/NOVIEMBRE25X13/1NNQDEQk4Z/93380
+#EXTINF:-1 tvg-id="" tvg-name="MundoBECERROTv "
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO 
+http://46.21.250.55:8080/NOVIEMBRE25X13/1NNQDEQk4Z/93380
+
+#EXTINF:-1 tvg-id="" tvg-name="Mundovaca "
+http://102.165.51.185:80/ypamzjtt/xY2597mnGj/313200
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CFERIA" group-title="ESPAÑA",MUNDOTORO HD
+http://mlefishing.es:2086/joaquin/123456/213
+
+
+
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="MUNDOVaca TV " ,MUNDOVaca TV HD 720P
+http://185.233.16.89/play/va08271/4122744267/441851.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MundoToroTv (p)" -title="Espana",MundoToroTv (p)
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca"
+http://mlefishing.es:2086/joaquin/123456/213
